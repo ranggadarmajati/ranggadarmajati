@@ -15,7 +15,7 @@
 
 ### Here my stat on github
 ![Rangga's GitHub stats](https://github-readme-stats.vercel.app/api?username=ranggadarmajati&count_private=true&show_icons=true&theme=monokai&hide=contribs)
-#### Most used Languages
+
 ![Rangga Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ranggadarmajati&theme=monokai&layout=compact)
 
 #### Laravel simple Packages/Libraries
